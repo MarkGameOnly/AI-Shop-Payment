@@ -1,0 +1,7 @@
+fastapi
+aiohttp
+uvicorn[standard]
+python-dotenv
+aiogram==3.3.0
+openai
+aiocryptopay
